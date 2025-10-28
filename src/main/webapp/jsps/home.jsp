@@ -17,7 +17,7 @@
 
 <hr>
 <br>
-	<h1><h3> Server side Address </h3><br>
+	<h1><h3> Server side address </h3><br>
 
 <% 
 String ip = "";
