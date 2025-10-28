@@ -26,7 +26,7 @@ ip = inetAddress.getHostAddress();
 out.println("Server Host Name :: "+inetAddress.getHostName()); 
 %>
 <br>
-<%out.println("Server IP Address  :: "+ip);%>
+<%out.println("Server ip Address  :: "+ip);%>
 </h1>
 <br>
 <h1><h3> Client Side IP Address </h3><br>
